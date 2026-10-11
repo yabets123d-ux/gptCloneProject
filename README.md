@@ -62,7 +62,3 @@ cd gptCloneProject
    npm run dev
    ```
 
----
-
-## 🛡️ License
-This repository is open-source and structured for educational architecture analysis and portfolio presentation under the [MIT License](LICENSE).
