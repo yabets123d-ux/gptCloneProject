@@ -5,7 +5,7 @@
 this project is a full-stack conversational web application built to practice decoupled client-server architecture, asynchronous event handling, and modern chat interfaces.
 
 ## 🚀 Live Demo
-Experience the live deployed application here: **[Deployed Page](https://vercel.app)**
+Experience the live deployed application here: **[Deployed Page]([https://chatgpt-clone-black-nu.vercel.app/])**
 
 ## 📁 Repository Structure
 The project is divided into two decoupled modules to maximize scalability:
