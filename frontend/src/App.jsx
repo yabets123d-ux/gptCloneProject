@@ -6,7 +6,7 @@ import MessageList from './components/MessageList/MessageList';
 import ChatInput from "./components/ChatInput/ChatInput";
 import axios from "axios"
 
-const API_BASE_URL = 'http://localhost:3788/api'
+const API_BASE_URL = "https://gptcloneproject.onrender.com/api" || 'http://localhost:3788/api'
 
 function App() {
       const [conversations, setConversations] = useState([]);
